@@ -1,0 +1,43 @@
+body {
+  background-image: url("http://www.smilefie.cz/data/page/1_5a5bc50a040f0ab4ad5ff07da42d36a3/ba12bdd73326b3e5c94b146d7e4b0e19_praha.jpg");
+background-size: cover;
+header {
+  background-color: gold;
+text-align: center;
+text-shadow: 10px;
+}
+ul {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+.hotchocolate{
+  color: brown;
+}
+ol {
+  text-align: center;
+  display: inline-table;
+  padding: 0px 10px 0px 10px;
+}
+[data-název="first"] {
+  background-color: red;
+  margin: 10 px 0px 10px 0px;
+  border: 5px solid white;
+}
+[data-název="second"] {
+  background-color: green;
+}
+[data-název="third"] {
+  color: purple;
+  font-size: 100px;
+}
+a {color: blue;
+  font-size: 15px;
+}
+
+input[type="text"] {
+
+}
+
+input[type="textarea"] {
+
+}
